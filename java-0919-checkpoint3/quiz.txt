@@ -1,0 +1,60 @@
+1. Comment initialiser un tableau d'entier `tab`, vide et de longueur 4 ?
+int [] tab = { , , , , } ;
+
+2. Quelle(s) différence(s) y a-t-il entre les types float et double ?
+le type float est plus precis que le type double
+
+3. Quelle(s) différence(s) y a-t-il entre les types char et Character ?
+CHARACTER( CHAR) represente le même type  
+
+4. Qu'est-ce qu'une instance ?
+java est un language orienté objet, alors on parle dans ce contexte des object,
+
+5. Dans le code `Human bruce = new Human("Bruce");`, où est la référence ?
+les instances d'une classe sont des objets.
+
+6. Une même instance peut-elle avoir plusieurs références ?
+oui et pour la question 5, la référence est Human bruce
+
+7. Quels sont les accès d'une classe en visibilité protected ?
+les variables,méthodes,etc.. sont accessibles par toutes les classes du même package plus les classes enfants d'un autre package
+
+8. Quels sont les accès d'une classe en visibilité package ?
+je ne sais pas
+
+9. À quoi sert le mot-clé `final` ?
+Une variable déclarée final, une fois initialisée ne peu pas être changée
+
+10. À quoi sert le mot-clé `static` ?
+Le mot clé static en Java est utilisé pour économiser l’espace mémoire, il garantit qu’une seule instance est créée en mémoire.
+
+11. Quelle convention de nommage utiliser pour une constante ?
+tout en minuscule
+
+12. Dans quels cas dois-je laisser des commentaires dans du code Java ?
+Je dois laisser des commentaires de façon à aider a la compréhension de mon code ou pour lister les amélioration ou les éventuels problèmes à corriger.
+
+13. Quels sont les noms des rôles définis par SCRUM ?
+le nom des rôles définit par Scrum sont : Le Product Owner, L’Equipe de Développement,Le Scrum Master
+
+14. Simplifier le code suivant : if (test == false) { test = true; } else { test = false; }
+if (test == ){ test = true; } else { test = false; }
+
+15. Dans un projet Spring Boot, qu'est-ce qu'un template ?
+Dans un projet Srping Boot un template est un répertoire servant a contenir des fichiers HTML.
+
+16. Dans un projet Spring Boot, qu'est-ce qu'un controller ?
+Le contrôleur contrôle le flux de données dans l'objet modèle et met à jour la vue chaque fois que les données changent.
+
+17. Dans un projet Spring Boot, qu'est-ce qu'une entity ?
+Dans un projet Spring Boot, une entity est une classe persistante.
+
+18. Dans un projet Spring Boot, qu'est-ce qu'un repository ?
+
+
+19. Dans un projet Spring Boot, à quoi sert le fichier pom.xml ?
+
+
+20. Quel est le principe de l'inversion de contrôle ?
+
+

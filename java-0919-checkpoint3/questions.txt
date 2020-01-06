@@ -1,0 +1,20 @@
+Comment initialiser un tableau d'entier `tab`, vide et de longueur 4 ?
+Quelle(s) différence(s) y a-t-il entre les types float et double ?
+Quelle(s) différence(s) y a-t-il entre les types char et Character ?
+Qu'est-ce qu'une instance ?
+Dans le code `Human bruce = new Human("Bruce");`, où est la référence ?
+Une même instance peut-elle avoir plusieurs références ?
+Quels sont les accès d'une classe en visibilité protected ?
+Quels sont les accès d'une classe en visibilité package ?
+À quoi sert le mot-clé `final` ?
+À quoi sert le mot-clé `static` ?
+Quelle convention de nommage utiliser pour une constante ?
+Dans quels cas dois-je laisser des commentaires dans du code Java ?
+Quels sont les noms des rôles définis par SCRUM ?
+Simplifier le code suivant : if (test == false) { test = true; } else { test = false; }
+Dans un projet Spring Boot, qu'est-ce qu'un template ?
+Dans un projet Spring Boot, qu'est-ce qu'un controller ?
+Dans un projet Spring Boot, qu'est-ce qu'une entity ?
+Dans un projet Spring Boot, qu'est-ce qu'un repository ?
+Dans un projet Spring Boot, à quoi sert le fichier pom.xml ?
+Quel est le principe de l'inversion de contrôle ?
